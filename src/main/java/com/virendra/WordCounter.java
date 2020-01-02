@@ -3,6 +3,7 @@ package com.virendra;
 import java.util.HashMap;
 import java.util.Map;
 
+//Write to program to count word frequency in descending order
 public class WordCounter {
 
 	public static void main(String[] args) {
@@ -20,9 +21,7 @@ public class WordCounter {
 			}
 		}
 		
-		
-	
-
+		//TODO - Need to sort map by value
 	}
 
 }
